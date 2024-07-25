@@ -1,0 +1,14 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "Full stack app using express and react for sending email to receive feedback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
